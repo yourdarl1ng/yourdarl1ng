@@ -1,4 +1,7 @@
-### Hi there 👋
+# I am a Python Developer
+## My main focus is on my cheat project minexware.cc
+> i also sometimes post stuff here
+## I'll be happy to do your commissions so feel free to contact me on my website :)
 
 <!--
 **yourdarl1ng/yourdarl1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
