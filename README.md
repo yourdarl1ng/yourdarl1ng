@@ -1,7 +1,6 @@
-# I am a Python Developer
-## My main focus is on my cheat project minexware.cc
-> i also sometimes post stuff here
-## I'll be happy to do your commissions so feel free to contact me on my website :)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+## A python dev that will be happy to do your commissions so feel free to contact me on my website :)
 ![work](https://github-readme-stats.vercel.app/api?username=yourdarl1ng&theme=blue-green])
 
 <!--
