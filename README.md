@@ -2,9 +2,8 @@
 <!--[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)-->
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-![work](https://github-readme-stats.vercel.app/api?username=yourdarl1ng&theme=blue-green])
-
-## A python dev that will be happy to do your commissions so feel free to contact me on my website :)
+[![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
+## I hate assembly
 
 
 <!--
